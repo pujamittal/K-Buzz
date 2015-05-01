@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=imageLocation\ name\ cost
+comment0.target=Menu(java.lang.String,\ java.lang.String,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Menu\r\n\ Takes\ in\ all\ three\ of\ the\ parameters\ and\ rounds\ the\ cost\ to\ two\ decimal\ places,\ since\ the\ Movie\ Theater\ uses\ dollars\r\n\ Additionally\ it\ creates\ a\ frame\ and\ resizes\ the\ image\ so\ that\ it\ is\ 200\ x\ 200\r\n\ @param\ \ \ imageLocation\ \ \ The\ file\ name\ of\ the\ image\ which\ will\ be\ used\ to\ create\ an\ imageIcon\r\n\ @param\ \ \ name\ \ \ \ \ \ \ \ \ \ \ \ The\ name\ of\ the\ Food\ item\ which\ is\ created\r\n\ @param\ \ \ cost\ \ \ \ \ \ \ \ \ \ \ \ The\ cost\ for\ each\ concession\r\n
+comment1.params=
+comment1.target=void\ convert()
+comment1.text=\r\n\ Converts\ the\ ImageIcon\ into\ a\ much\ smaller\ size\r\n
+comment2.params=
+comment2.target=javax.swing.JPanel\ createPanel()
+comment2.text=\r\n\ Creates\ the\ panel\ for\ each\ Concession\ that\ is\ created.\r\n\ The\ size\ of\ each\ panel\ is\ 210\ *\ 300\r\n\ \r\n\ @return\ frame\ \ \ \ The\ frame\ that\ contains\ the\ name,\ cost,\ and\ image\ of\ the\ Movie\ Object\r\n
+numComments=3

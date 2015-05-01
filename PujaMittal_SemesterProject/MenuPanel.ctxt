@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MenuPanel()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Menu\r\n\ This\ creates\ various\ menus\ Objects\ for\ use\ on\ the\ menu\r\n\ It\ also\ creates\ the\ GUI\ \ with\ various\ buttons\ and\ displays\ it\r\n
+comment1.params=
+comment1.target=double\ getPrice()
+comment1.text=\r\n\ Returns\ the\ price\ based\ on\ the\ user\ selection\ of\ concessions\r\n\ \r\n\ @return\ \ price\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ uses\ cost\ assigned\ to\ each\ food\ item\ and\ returns\ that\ value.\ Price\ is\ calculated\ when\ the\ finished\ button\ is\ pressed.\r\n
+comment2.params=
+comment2.target=boolean\ checkMenu()
+comment2.text=\r\n\ Returns\ whether\ the\ user\ has\ finished\ using\ the\ menu\ \r\n\ \r\n\ @return\ \ isFinished\ \ \ \ \ \ \ \ \ \ true\ if\ the\ user\ has\ finished\ using\ the\ menu.\ \r\n
+comment3.params=e
+comment3.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment3.text=\r\n\ Handles\ all\ the\ buttons\ for\ the\ class\ and\ preforms\ various\ actions\ based\ on\ which\ one\ is\ pressed.\ \r\n\ When\ a\ radio\ button\ is\ pressed,\ it\ is\ selected\ \r\n\ When\ the\ finished\ button\ is\ pressed\ all\ the\ values\ are\ stored\ and\ the\ GUI\ disappears.\r\n\ \r\n\ @param\ \ \ e\ \ \ The\ Action\ Event\ when\ the\ mouse\ is\ pressed.\ The\ method\ checks\ the\ source\ of\ e\ to\ find\ out\ which\ button\ was\ pressed.\r\n
+numComments=4
