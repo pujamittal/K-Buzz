@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=jpg
+comment0.target=BasePanel(java.lang.String[])
+comment0.text=\r\nThe\ constructor\ creates\ the\ panel\ itself\r\n\r\nno\ return\r\n
+comment1.params=t
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ method\ actionPerformed()\ sets\ the\ response\ to\ the\ corresponding\ button\ using\ the\ strings\ stated\ as\ fields\r\n\ shows\ preview\ image\ as\ the\ icon\r\n\ also\ sets\ the\ button\ recorder\ to\ an\ integer\ so\ that\ it\ can\ be\ retrieved\ and\ used\ later\r\n\ no\ return\r\n\ if\ the\ button\ selected\ is\ the\ "jpg[0]"\ button,\ sets\ button\ recorder\ to\ "jpg[0]"\r\n\ else\ if\ the\ button\ selected\ is\ the\ "jpg[1]"\ button,\ sets\ button\ recorder\ to\ "medium\ skin"\r\n\ else\ if\ the\ button\ selected\ is\ the\ "jpg[2]"\ button,\ sets\ button\ recorder\ to\ "dark\ skin"\r\n
+comment3.params=path
+comment3.target=javax.swing.ImageIcon\ createImageIcon(java.lang.String)
+comment4.params=jpg
+comment4.target=void\ displaywindow(java.lang.String[])
+comment5.params=jpg
+comment5.target=void\ display(java.lang.String[])
+comment6.params=
+comment6.target=void\ run()
+comment7.params=
+comment7.target=java.lang.String\ returnChoice()
+comment7.text=\r\n\ returnChoice\ method\ \r\n\ returns\ the\ String\ buttonrecorder\r\n\ this\ will\ be\ used\ later\ to\ save\ the\ choice\ made\ by\ this\ panel\r\n\ other\ panels\ also\ have\ a\ buttonrecorder\ that\ will\ save\ the\ choice\ made\r\n\ \r\n
+numComments=8
