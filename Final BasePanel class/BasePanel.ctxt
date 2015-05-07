@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=jpg
+comment0.target=BasePanel(java.lang.String[])
+comment0.text=\r\nThe\ constructor\ creates\ the\ panel\ itself.\ takes\ an\ array\ of\ strings\ and\ uses\ the\ array\ size\ to\ determine\ the\ amount\ of\ buttons.\ Array\ is\ the\ file\ names\ for\ icons/question\ banner\r\n\r\nno\ return\r\n
+comment1.params=t
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ method\ actionPerformed()\ changes\ icon\ for\ the\ corresponding\ button\r\n
+comment3.params=path
+comment3.target=javax.swing.ImageIcon\ createImageIcon(java.lang.String)
+comment4.params=
+comment4.target=void\ displaywindow()
+comment5.params=
+comment5.target=void\ display()
+comment6.params=
+comment6.target=void\ run()
+comment7.params=
+comment7.target=java.lang.String\ returnChoice()
+comment7.text=\r\n\ returnChoice\ method\ \r\n\ returns\ the\ String\ buttonrecorder\r\n\ this\ will\ be\ used\ later\ to\ save\ the\ choice\ made\ by\ this\ panel\r\n\ other\ panels\ also\ have\ a\ buttonrecorder\ that\ will\ save\ the\ choice\ made\r\n\ \r\n
+numComments=8
